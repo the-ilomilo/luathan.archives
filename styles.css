@@ -1,6 +1,6 @@
 /* Header with background image */
 .main-header {
-    background-image: url('image.png');  /* Use the exact filename */
+    background-image: url('Image.png');  /* Use the exact filename */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

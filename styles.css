@@ -1,14 +1,11 @@
 /* Header with background image */
 .main-header {
-    background-image: url('image.png');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    border: 5px solid red !important; /* Temporary to see the header area */
+    background-color: yellow !important; /* Temporary solid color */
     height: 400px;
     display: flex;
     align-items: center;
     justify-content: center;
-    position: relative;
 }
 
 .site-title {

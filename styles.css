@@ -6,7 +6,7 @@
 }
 
 .nav-brand h1 {
-    color: #4CAF50; /* Green color for the logo */
+    color: #4CAF50;
     font-size: 2rem;
     font-weight: bold;
     margin: 0 0 15px 0;
@@ -36,10 +36,9 @@
 }
 
 .nav-links a:hover {
-    color: #4CAF50; /* Green on hover */
+    color: #4CAF50;
 }
 
-/* Body styles */
 body {
     margin: 0;
     background: black;
@@ -47,7 +46,6 @@ body {
     font-family: Arial, sans-serif;
 }
 
-/* Main content */
 main {
     padding: 40px 20px;
     text-align: center;

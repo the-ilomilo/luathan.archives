@@ -59,15 +59,15 @@
 /* Body styles */
 body {
     margin: 0;
-    background: black;
-    color: white;
     font-family: Arial, sans-serif;
+    /* Remove background: black entirely */
 }
 
-/* Main content */
 main {
     padding: 40px 20px;
     text-align: center;
     max-width: 800px;
     margin: 0 auto;
+    background: white;
+    color: black;
 }

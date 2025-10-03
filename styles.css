@@ -1,4 +1,4 @@
-cat > styles.css << 'EOF'
+
 .main-header {
     background-color: yellow;
     border: 5px solid red;

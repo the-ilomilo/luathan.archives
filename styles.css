@@ -11,7 +11,7 @@
 }
 
 .site-title {
-    color: red !important; /* Make text red to see change */
+    color: black important/* Make text red to see change */
     font-size: 2.5rem;
     font-weight: bold;
     font-family: 'Times New Roman', serif;

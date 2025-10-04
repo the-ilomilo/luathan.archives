@@ -162,3 +162,35 @@ main {
 .item h3 a:hover {
     color: #4CAF50;
 }
+
+/* CTA Section */
+.cta-section {
+    background: linear-gradient(135deg, #4CAF50, #2e7d32);
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 30px 0;
+}
+
+.cta-section h3 {
+    margin: 0 0 10px 0;
+    font-size: 1.5rem;
+}
+
+.cta-button {
+    display: inline-block;
+    background: white;
+    color: #2e7d32;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 15px;
+    transition: transform 0.3s ease;
+}
+
+.cta-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
